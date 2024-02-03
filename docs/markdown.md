@@ -76,15 +76,6 @@ K(\hat F, \theta) = (\theta I - C'\hat P C)^{-1} C' \hat P  (A - B \hat F)
 ```
 ````
 
-```{figure} ./logo.png
----
-height: 150px
-name: directive-fig
----
-Here is my figure caption!
-```
-{ref}`directive-fig`
-
 ````{prf:example}
 :label: my-example
 
