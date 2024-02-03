@@ -34,7 +34,8 @@ Sei $ (\Omega, \mathcal F)$ ein Ereignisraum. Eine Funktion $ P: \mathcal F \to 
 
 1. Normierung: $ P(\Omega) = 1 $
 
-2. $ \sigma $-Additivität: Für paarweise disjunkte Ereignisse $ A_1, A_2, \dots \in \mathcal F $ gilt $$ P (\bigcup_{i \geq 1} a_i) = \sum_{i \geq 1} P(A_i) $$
+2. $ \sigma $-Additivität: Für paarweise disjunkte Ereignisse $ A_1, A_2, \dots \in \mathcal F $ gilt 
+$ P (\bigcup_{i \geq 1} a_i) = \sum_{i \geq 1} P(A_i) $
 
 heißt **Wahrscheinlichkeitsmaß** oder **Wahrscheinlichkeitsverteilung** auf $ (\Omega, \mathcal F) $. Das Tripel $ (\Omega, \mathcal F, P) $ heißt dann ein **Wahrscheinlichkeitsraum**.
 ````
@@ -43,6 +44,6 @@ Nun haben wir alle Zutaten eines Wahrscheinlichkeitsraums kennengelernt. Eine de
 
 ````{prf:definition} Definition (Lebesgue-Maß)
 
-Die Abbildung $ \lambda^n : \mathcal B^n \to [0, \infty] $, die jedem $ A \in \mathcal B^n $ sein $ n $-dimensionales Volumen $$ \lambda^n (A) := \int 1_A (x) \ dx $ zuordnet heißt Lebesgue-Maß auf $ \mathbb R^n $. Hierbei bezeichnet $ 1_A $ die Indikatorfunktion von $ A $.
+Die Abbildung $ \lambda^n : \mathcal B^n \to [0, \infty] $, die jedem $ A \in \mathcal B^n $ sein $ n $-dimensionales Volumen $ \lambda^n (A) := \int 1_A (x) \ dx $ zuordnet heißt Lebesgue-Maß auf $ \mathbb R^n $. Hierbei bezeichnet $ 1_A $ die Indikatorfunktion von $ A $.
 
 ````

@@ -1,5 +1,7 @@
 format: jb-book
 root: intro.md
+options:
+  numbered: true
 chapters:
 - file: docs/1_basics_of_probability_theory.md
 - file: docs/markdown.md
