@@ -1,6 +1,6 @@
-# 1 Mathematische Beschreibung von Zufallssituationen
+# Mathematische Beschreibung von Zufallssituationen
 
-## 1.1 Wahrscheinlichkeitsräume
+## Wahrscheinlichkeitsräume
 
 Wie definiert man die Ereignisse, denen man sinnvollerweise eine Wahrscheinlichkeit zuordnen kann? Wenn $ \Omega $ die Grundmenge ist, möchte man im Regelfall gewissen Teilmengen eine Wahrscheinlichkeit zuordenen. Als Beispiel sei ein Würfelwurf genannt. Nun kann einen beispielsweise die Wahrscheinlichkeit interessierenn, dass man eine Zahl $ \leq 3 $ würfelt. Dann ist $ \Omega = { 1,2,3,4,5,6 } $ und die gesuchte Teilmenge ist $ { 1,2,3 } $. Leider kann man i.A. nicht alle Teilmengen einer Menge, also die Potenzmenge als mögliche Ereignisse verwenden (FOOTNOTE). Dafür aber fast alle:  
 
