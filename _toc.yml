@@ -4,6 +4,5 @@ options:
   numbered: true
 chapters:
 - file: docs/1_basics_of_probability_theory.md
-- file: docs/markdown.md
-- file: docs/markdown-notebooks.md
-- file: docs/notebooks.ipynb
+- file: docs/2_entropy.md
+
