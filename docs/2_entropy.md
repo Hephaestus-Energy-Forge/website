@@ -44,7 +44,7 @@ dx_1^3 dp_1^3 ... dx_N^3 dp_N^3
 über das Phasenraumvolumen integriert. Da die Multiplicity $\Omega$ eine dimensionslose Größe ist normiert man mithilfe des plankschen Wirkungsquantum $h$. Für die Multiplicity erhalten wir dann
 ```{math}
 :label: multiplicity_eq5
-\Omega = \frac{1}{N!} \frac{1}{h^{3N}} \int_{Vol}{ \prod_{i=1}^{N}{dx_i^3 dp_i^3} }
+| \Omega | = \frac{1}{N!} \frac{1}{h^{3N}} \int_{Vol}{ \prod_{i=1}^{N}{dx_i^3 dp_i^3} }
 ```
 
 Der Vorfaktor $\frac{1}{N!}$ ist eine Folge der Ununterscheidbarkeit der Teilchen. Die Zustände $(q_1, p_1, q_2, p_2, ..., q_N , p_N )$ und $(q_2, p_2, q_1, p_1, ..., q_N , p_N )$ sind nicht unterscheidbar.

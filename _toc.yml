@@ -5,4 +5,5 @@ options:
 chapters:
 - file: docs/1_basics_of_probability_theory.md
 - file: docs/2_entropy.md
+- file: docs/appendix.md
 
