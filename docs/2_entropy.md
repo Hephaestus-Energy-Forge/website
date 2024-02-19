@@ -35,7 +35,6 @@ p(E) = \frac{1}{| \Omega(E) |}
 ```
 ````
 
-
 Um die Anzahl der Mikrozustände zu berechnen müssten wir über alle möglichen Impulse und Orte summieren. Da Impulse und Ortskoordinaten kontinuierliche Werte annehmen, wird stattdessen mit 
 ```{math}
 :label: multiplicity_eq4
@@ -49,3 +48,6 @@ dx_1^3 dp_1^3 ... dx_N^3 dp_N^3
 
 Der Vorfaktor $\frac{1}{N!}$ ist eine Folge der Ununterscheidbarkeit der Teilchen. Die Zustände $(q_1, p_1, q_2, p_2, ..., q_N , p_N )$ und $(q_2, p_2, q_1, p_1, ..., q_N , p_N )$ sind nicht unterscheidbar.
  
+## Kanonisches Ensemble
+
+Im kanonischen Ensemble wird statt der Energie die Temperatur vorgegeben. Das betrachtete System befindet sich im thermischen Gleichgewicht mit einem Reservoir. Die Gesamtenergie ist konstant, allerdings kann diese unterschiedlich zwischen Reservoir und betrachtetem System aufgeteilt werden.
