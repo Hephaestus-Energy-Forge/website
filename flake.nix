@@ -27,6 +27,15 @@
         python311Packages.sphinx-book-theme
         python311Packages.regex
         python311Packages.matplotlib
+        python311Packages.plotly
+        python311Packages.numpy
+        python311Packages.scipy
+        python311Packages.pandas
+        python311Packages.ipykernel
+        python311Packages.ipython
+        python311Packages.ipywidgets
+        python311Packages.jupyterlab-widgets
+        python311Packages.ipympl
         python311Packages.pyppeteer
         gnumake
         texlive.combined.scheme-full
