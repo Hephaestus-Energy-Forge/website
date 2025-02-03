@@ -3,8 +3,6 @@ root: intro.md
 options:
   numbered: true
 chapters:
-- file: docs/1_basics_of_probability_theory.md
-- file: docs/2_entropy.md
-- file: docs/3_Advanced_Electromagnetism
-- file: docs/appendix.ipynb
+- file: docs/1_Physics.ipynb
+
 

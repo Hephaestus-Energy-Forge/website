@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Statistical Mechanics and Thermodynamics
+title: Physics
 author: Konstantin Unruh
 copyright: "2023"
 logo: logo.png
@@ -19,7 +19,6 @@ latex:
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
   - references.bib
-
 
 sphinx:
   config:
